@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "955d91d3ce1478e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6bca5fefd2f7d49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1b3c904b1044772",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6811726844f0617b",
+    "type": "split",
+    "children": [
+      {
+        "id": "3aee144d2fb383aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72494f3515db2b19",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bb30bcd480682960",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "840e0e63013f4d4d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 246.5
+  },
+  "right": {
+    "id": "ecfb3c2d43178f67",
+    "type": "split",
+    "children": [
+      {
+        "id": "d30bd16252107b3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6cf1c9d636252328",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CCNA/Routing&Switching/Hierarchical Network Model.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Hierarchical Network Model"
+            }
+          },
+          {
+            "id": "4babc2ec83c21b75",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "ce16d9c656749dfc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fd956e190cfa39f1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "7e34a43236f56139",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          },
+          {
+            "id": "ab42b92bf75c59af",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "05f54db02f339732",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "ab42b92bf75c59af",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "CCNA/Routing&Switching/CDP & LLDP.md",
+    "Untitled.base",
+    "Untitled 1.base",
+    "CCNA/Routing&Switching/VLAN's & L2.md",
+    "CCNA/Routing&Switching/Network Design.md",
+    "CCNA/Routing&Switching/STP.md",
+    "CCNA/Routing&Switching/VTP.md",
+    "CCNA/Routing&Switching/Ether Channel.md",
+    "CCNA/Routing&Switching/DTP.md",
+    "CCNA/Routing&Switching/Diagrams/Ether Channel.excalidraw.md",
+    "CCNA/Routing&Switching/Diagrams/Untitled.md",
+    "CCNA/Routing&Switching/Diagrams/VTP Scenario.excalidraw.md",
+    "qk kxw.md",
+    "CCNA/Routing&Switching/Diagrams/InterVLAN Routing.excalidraw.md",
+    "CCNA/Routing&Switching/Diagrams/Modular Hierarchy.excalidraw.md",
+    "CCNA/Routing&Switching/Diagrams/Spine&Leaf.excalidraw.md",
+    "CCNA/Routing&Switching/Diagrams/3Layered Campus.excalidraw.md",
+    "Excalidraw/Drawing 2026-06-19 09.58.10.excalidraw.md",
+    "Excalidraw/Drawing 2026-06-19 09.58.09.excalidraw.md",
+    "Excalidraw/Drawing 2026-06-19 09.58.07.excalidraw.md",
+    "Excalidraw",
+    "CCNA/Routing&Switching/Diagrams",
+    "CCNA/Routing&Switching/Drawing 2026-06-18 22.48.20.excalidraw.md",
+    "CCNA/Devnet",
+    "CCNA/Routing&Switching",
+    "Untitled",
+    "CCNA",
+    "Welcome.md"
+  ]
+}
