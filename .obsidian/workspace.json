@@ -11,10 +11,14 @@
             "id": "e1b3c904b1044772",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "CCNA/Routing&Switching/Wireless Design.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wireless Design"
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 246.5,
+    "collapsed": true
   },
   "right": {
     "id": "ecfb3c2d43178f67",
@@ -204,14 +209,21 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ab42b92bf75c59af",
+  "active": "e1b3c904b1044772",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "CCNA/Routing&Switching/Wireless Concepts.md",
+    "CCNA/Routing&Switching/Wireless Design.md",
+    "CCNA/Routing&Switching/Network Design.md",
+    "CCNA/Routing&Switching/Diagrams/CAPWAP.excalidraw.md",
+    "CCNA/Routing&Switching/Wireless Config.md",
+    "CCNA/Routing&Switching/Diagrams/Wireless Devices.excalidraw.md",
+    "CCNA/Routing&Switching/Diagrams/Drawing 2026-07-09 16.08.29.excalidraw.md",
+    "CCNA/Routing&Switching/Diagrams/802.1x.excalidraw.md",
     "CCNA/Routing&Switching/CDP & LLDP.md",
+    "Untitled.canvas",
     "Untitled.base",
     "Untitled 1.base",
     "CCNA/Routing&Switching/VLAN's & L2.md",
-    "CCNA/Routing&Switching/Network Design.md",
     "CCNA/Routing&Switching/STP.md",
     "CCNA/Routing&Switching/VTP.md",
     "CCNA/Routing&Switching/Ether Channel.md",
@@ -233,7 +245,6 @@
     "CCNA/Devnet",
     "CCNA/Routing&Switching",
     "Untitled",
-    "CCNA",
-    "Welcome.md"
+    "CCNA"
   ]
 }

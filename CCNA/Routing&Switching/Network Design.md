@@ -237,3 +237,13 @@ do sh ipv6 int gig 1/0/1
 4. ASAv -> firewall
 5. NGFWv -> firewall
 6. vWLC
+
+### IOS-XE
+
+> New cisco os for its devices. the devices that run IOS-XE are all catalyst 9000 series.
+
+1. Catalyst 9100: Access Point
+2. Catalyst 9200: Access Switch
+3. Catalyst 9300: Distribution Switch
+4. Catalyst 9600: Core Switch
+5. Catalyst 9800: Wireless LAN Conteroller
