@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5,
-    "collapsed": true
+    "width": 246.5
   },
   "right": {
     "id": "ecfb3c2d43178f67",
@@ -211,9 +210,9 @@
   },
   "active": "e1b3c904b1044772",
   "lastOpenFiles": [
-    "CCNA/Routing&Switching/Diagrams/Wireless Scenario.excalidraw.md",
-    "CCNA/Routing&Switching/Wireless Config.md",
     "CCNA/Routing&Switching/Wireless Design.md",
+    "CCNA/Routing&Switching/Wireless Config.md",
+    "CCNA/Routing&Switching/Diagrams/Wireless Scenario.excalidraw.md",
     "CCNA/Routing&Switching/Wireless Concepts.md",
     "CCNA/Routing&Switching/Network Design.md",
     "CCNA/Routing&Switching/Diagrams/CAPWAP.excalidraw.md",

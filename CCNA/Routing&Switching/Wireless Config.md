@@ -54,7 +54,7 @@
 	capwap ap primary-base <WLC Name> <WLC IP>  \\ if we configure it manually
 ```
 
-## WLAN Configuration
+## WLAN Config
 
 ```
    in WLC Web UI:
@@ -65,7 +65,7 @@
 	Wireless -> 802.11 -> enabled
 ```
 
-## WPA2 Enterprise Configuration
+## WPA2 Enterprise Config
 
 ```
    RADIUS Server:
