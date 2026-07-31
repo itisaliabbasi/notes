@@ -3,5 +3,6 @@
   "templater-obsidian",
   "table-editor-obsidian",
   "obsidian-linter",
-  "omnisearch"
+  "omnisearch",
+  "obsidian-git"
 ]
