@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCNA/Routing&Switching/Wireless Config.md",
+                "file": "CCNA/Routing&Switching/OSPF Routing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wireless Config"
+              "title": "OSPF Routing"
             }
           }
         ]
@@ -37,7 +37,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": false
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -159,6 +161,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -174,8 +177,8 @@
   },
   "active": "50bd7c047a4c5882",
   "lastOpenFiles": [
-    "CCNA/Routing&Switching/Diagrams/Wireless Scenario.excalidraw.md",
     "CCNA/Routing&Switching/Wireless Config.md",
+    "CCNA/Routing&Switching/Diagrams/Wireless Scenario.excalidraw.md",
     "CCNA/Routing&Switching/Wireless Design.md",
     "CCNA/Routing&Switching/Wireless Concepts.md",
     "CCNA/Routing&Switching/VLAN's & L2.md",
