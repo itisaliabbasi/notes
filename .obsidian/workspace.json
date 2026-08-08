@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCNA/Routing&Switching/SNMP.md",
+                "file": "CCNA/Routing&Switching/Syslog and NTP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SNMP"
+              "title": "Syslog and NTP"
             }
           }
         ]
@@ -212,8 +212,9 @@
   },
   "active": "e1b3c904b1044772",
   "lastOpenFiles": [
-    "CCNA/Routing&Switching/DNS.md",
     "CCNA/Routing&Switching/SNMP.md",
+    "CCNA/Routing&Switching/Syslog and NTP.md",
+    "CCNA/Routing&Switching/DNS.md",
     "CCNA/Routing&Switching/DHCP.md",
     "CCNA/Routing&Switching/Wireless Config.md",
     "CCNA/Routing&Switching/Wireless Concepts.md",
@@ -241,7 +242,6 @@
     "Untitled 1.base",
     "CCNA/Routing&Switching/Diagrams/Ether Channel.excalidraw.md",
     "CCNA/Routing&Switching/Diagrams/Untitled.md",
-    "CCNA/Routing&Switching/Diagrams/VTP Scenario.excalidraw.md",
     "Excalidraw",
     "CCNA/Routing&Switching/Diagrams",
     "CCNA/Devnet",
