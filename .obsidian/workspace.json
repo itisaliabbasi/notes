@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCNA/Routing&Switching/STP.md",
+                "file": "CCNA/Routing&Switching/AAA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "STP"
+              "title": "AAA"
             }
           }
         ]
@@ -212,8 +212,9 @@
   },
   "active": "e1b3c904b1044772",
   "lastOpenFiles": [
-    "CCNA/Routing&Switching/Diagrams/Loop Guard.excalidraw.md",
     "CCNA/Routing&Switching/STP.md",
+    "CCNA/Routing&Switching/AAA.md",
+    "CCNA/Routing&Switching/Diagrams/Loop Guard.excalidraw.md",
     "CCNA/Routing&Switching/DHCP.md",
     "CCNA/Routing&Switching/Port Security.md",
     "CCNA/Routing&Switching/DTP.md",
@@ -238,7 +239,6 @@
     "CCNA/Routing&Switching/FHRP",
     "CCNA/Routing&Switching/Wireless Design.md",
     "CCNA/Routing&Switching/Diagrams/Wireless Scenario.excalidraw.md",
-    "CCNA/Routing&Switching/Diagrams/CAPWAP.excalidraw.md",
     "Untitled.canvas",
     "Untitled.base",
     "Untitled 1.base",
