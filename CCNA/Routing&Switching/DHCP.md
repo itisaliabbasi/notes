@@ -52,3 +52,18 @@ show ip dhcp snooping database
 show ip dhcp snooping
 show ip dhcp snooping binding
 ```
+
+## DAI
+
+> *DAI => Dynamic ARP Inspection* -> checks (with dhcp snooping database) that a client cant have same ip with 2 different MAC addresses.
+
+```
+show ip arp inspection interfaces
+conf t
+ip arp inspection vlan <id,id,...>
+sh ip arp inspection
+sh ip arp inspection statistics vlan <id>
+int gig 0/0 //on trunk ports
+	ip arp inspection trust
+	exit
+```
