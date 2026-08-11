@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCNA/Routing&Switching/Static Routing.md",
+                "file": "CCNA/Routing&Switching/Syslog and NTP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Static Routing"
+              "title": "Syslog and NTP"
             }
           }
         ]
@@ -177,17 +177,18 @@
   },
   "active": "50bd7c047a4c5882",
   "lastOpenFiles": [
-    "CCNA/Routing&Switching/DHCP.md",
-    "CCNA/Routing&Switching/VLAN's & L2.md",
+    "CCNA/Routing&Switching/Wireless Design.md",
     "CCNA/Routing&Switching/Syslog and NTP.md",
+    "CCNA/Routing&Switching/File Management.md",
     "CCNA/Routing&Switching/NAT.md",
+    "CCNA/Routing&Switching/DHCP.md",
+    "CCNA/Routing&Switching/Static Routing.md",
+    "CCNA/Routing&Switching/VLAN's & L2.md",
     "CCNA/Routing&Switching/SNMP.md",
     "CCNA/Routing&Switching/FHRP.md",
     "CCNA/Routing&Switching/OSPF Routing.md",
-    "CCNA/Routing&Switching/Static Routing.md",
     "CCNA/Routing&Switching/Wireless Config.md",
     "CCNA/Routing&Switching/Diagrams/Wireless Scenario.excalidraw.md",
-    "CCNA/Routing&Switching/Wireless Design.md",
     "CCNA/Routing&Switching/Wireless Concepts.md",
     "CCNA/Routing&Switching/DTP.md"
   ]
