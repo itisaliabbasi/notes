@@ -36,3 +36,19 @@ conf t
 int gig 1/0
 	ip helper-address <DHCP_server_IP>
 ```
+
+## DHCP Snooping
+
+```
+conf t
+ip dhcp snooping
+ip dhcp snooping vlan <id,id,...>
+no ip dhcp snooping information option //doesnt use opiton 82, if you configure this option on your DHCP server, its ok not to use this command
+interface gig 0/1 //server faced interface
+	ip dhcp snooping trust
+	ip dhcp snooping limit rate 50
+ip dhcp snooping database <path-to-database-file> //imports a dhcp snooping database from an external file
+show ip dhcp snooping database
+show ip dhcp snooping
+show ip dhcp snooping binding
+```
