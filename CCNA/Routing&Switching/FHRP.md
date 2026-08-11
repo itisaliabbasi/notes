@@ -12,6 +12,7 @@ on R1:
 	conf t
 	int gig 0/0
 	standby <group_number> ip <VIP>
+	standby use-bia //if you are using PortSec on these interfaces
 	exit
 	standby <group_number> preempt
 	show standby
@@ -20,6 +21,7 @@ on R2:
 	conf t
 	int gig 0/0
 	standby <group_number> ip <VIP>
+	standby use-bia //if you are using PortSec on these interfaces
 	exit
 	standby <group_number> preempt
 	show standby

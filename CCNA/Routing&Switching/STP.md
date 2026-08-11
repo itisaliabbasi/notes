@@ -38,5 +38,34 @@ conf t
 spanning-tree portfast default // To get rid of the delay of STP on access ports
 spanning-tree mode rapid-pvst
 spanning-tree vlan [x] root [primary|secondary|x] // To set a switch as root or secondary root in a VLAN or give it an static manual priority
+show spanning-tree root
+```
 
+## STP Hardening
+
+> on access ports BPDU guard must be enabled so no switch can be connected to them. (puts port in err-diable state) or we can use BPDU filter to ignore BPDUs and there would be no err-disable problem
+> on trunk ports of root bridge switch, Root guard must be enabled so no switch other than that can become root bridge.
+
+```
+conf t
+spanning-tree portfast edge bplufilter default //enable bpdufilter by default on portfast interfaces
+int ra gig 0/0-3 //on access ports
+	spanning-tree bpuduard enable //err-disable if switch is connected to it
+	spanning-tree bpdufilter enable //ignore BPDU entirly
+	exit
+int gig 0/4 //on trunk ports
+	spanning-tree guard root
+	exit
+```
+
+> Loop Guard on ports is for when there is a blocked port and BPDUs stop comming to that port, it wont change to forwarding, instead it will go to loop inconsistancy mode. because the link may have problem.
+
+![[Loop Guard.excalidraw|800]]
+
+```
+conf t
+int gig 0/5
+	spanning-tree guard loop //enable loopguard on an interface
+	exit
+spanning-tree loopguard default //enable it globally
 ```
