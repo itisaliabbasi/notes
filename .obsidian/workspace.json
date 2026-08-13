@@ -206,8 +206,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "72494f3515db2b19",
+  "active": "ab42b92bf75c59af",
   "lastOpenFiles": [
+    "CCNA/Untitled.md",
+    "CCNA/Automation/Diagrams",
+    "CCNA/Automation",
+    "CCNA/Security/Diagram",
+    "CCNA/Security",
     "CCNA/Routing&Switching/Automation Intro.md",
     "CCNA/Routing&Switching/AAA.md",
     "CCNA/Routing&Switching/STP.md",
@@ -232,17 +237,12 @@
     "CCNA/Routing&Switching/VTP.md",
     "CCNA/Routing&Switching/VLAN's & L2.md",
     "CCNA/Routing&Switching/Ether Channel.md",
-    "CCNA/Routing&Switching/Diagrams/NAT.excalidraw.md",
     "CCNA/Routing&Switching/FHRP",
-    "CCNA/Routing&Switching/Wireless Design.md",
     "Untitled.canvas",
     "Untitled.base",
     "Untitled 1.base",
     "Excalidraw",
     "CCNA/Routing&Switching/Diagrams",
-    "CCNA/Devnet",
-    "CCNA/Routing&Switching",
-    "Untitled",
-    "CCNA"
+    "CCNA/Devnet"
   ]
 }
