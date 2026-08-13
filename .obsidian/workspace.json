@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b6bca5fefd2f7d49",
+        "id": "8d7b6089cf84f939",
         "type": "tabs",
         "children": [
           {
-            "id": "e1b3c904b1044772",
+            "id": "fddecb74c2a1f986",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CCNA/Routing&Switching/AAA.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "AAA"
+              "title": "New tab"
             }
           }
         ]
@@ -210,10 +206,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e1b3c904b1044772",
+  "active": "72494f3515db2b19",
   "lastOpenFiles": [
-    "CCNA/Routing&Switching/STP.md",
+    "CCNA/Routing&Switching/Automation Intro.md",
     "CCNA/Routing&Switching/AAA.md",
+    "CCNA/Routing&Switching/STP.md",
     "CCNA/Routing&Switching/Diagrams/Loop Guard.excalidraw.md",
     "CCNA/Routing&Switching/DHCP.md",
     "CCNA/Routing&Switching/Port Security.md",
@@ -238,7 +235,6 @@
     "CCNA/Routing&Switching/Diagrams/NAT.excalidraw.md",
     "CCNA/Routing&Switching/FHRP",
     "CCNA/Routing&Switching/Wireless Design.md",
-    "CCNA/Routing&Switching/Diagrams/Wireless Scenario.excalidraw.md",
     "Untitled.canvas",
     "Untitled.base",
     "Untitled 1.base",
