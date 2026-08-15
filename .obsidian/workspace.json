@@ -76,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.4609375
+    "width": 215.42578125
   },
   "right": {
     "id": "ecfb3c2d43178f67",
@@ -208,6 +208,10 @@
   },
   "active": "ab42b92bf75c59af",
   "lastOpenFiles": [
+    "CCNP/Untitled.md",
+    "CCNP/ENARSI",
+    "CCNP/ENCOR",
+    "CCNP",
     "CCNA/Untitled.md",
     "CCNA/Automation/Diagrams",
     "CCNA/Automation",
@@ -236,13 +240,9 @@
     "CCNA/Routing&Switching/Wireless Concepts.md",
     "CCNA/Routing&Switching/VTP.md",
     "CCNA/Routing&Switching/VLAN's & L2.md",
-    "CCNA/Routing&Switching/Ether Channel.md",
     "CCNA/Routing&Switching/FHRP",
     "Untitled.canvas",
     "Untitled.base",
-    "Untitled 1.base",
-    "Excalidraw",
-    "CCNA/Routing&Switching/Diagrams",
-    "CCNA/Devnet"
+    "Untitled 1.base"
   ]
 }
