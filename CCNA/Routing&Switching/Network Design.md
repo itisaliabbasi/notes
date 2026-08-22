@@ -36,8 +36,7 @@
 
 > [!NOTE]
 > Instead of Agg and Acc blocks for Datacenters, we can have Spine and Leaf architecture. its all based on L3 connections and routing protocols such as iBGP & eBGP.
-
-![[Spine&Leaf.excalidraw|800]]
+> ![[Spine&Leaf.excalidraw|800]]
 
 > *WAN => Wide Area Network
 > BGP => Border Gateway Protocol*
