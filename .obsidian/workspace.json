@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCNP/ENCOR/Network Design.md",
+                "file": "CCNP/ENCOR/Cloud Intro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Network Design"
+              "title": "Cloud Intro"
             }
           }
         ]
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CCNA/Routing&Switching/Hierarchical Network Model.md",
+                "file": "CCNP/ENCOR/Network Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Hierarchical Network Model"
+              "title": "Backlinks"
             }
           },
           {
@@ -212,12 +212,12 @@
   },
   "active": "fddecb74c2a1f986",
   "lastOpenFiles": [
-    "CCNP/ENCOR/Untitled.md",
     "CCNP/ENCOR/Network Design.md",
+    "CCNP/ENCOR/Cloud Intro.md",
     "CCNP/ENCOR/HA Techniques.md",
-    "CCNP/Untitled.md",
     "CCNP/Diagrams/DatacenterTopologies.excalidraw.md",
     "CCNP/Diagrams/AccesslayerTopologies.excalidraw.md",
+    "CCNP/Untitled.md",
     "CCNP/Diagrams/3-tierNetworkDesign.excalidraw.md",
     "CCNP/Diagrams/ModularNetwork.excalidraw.md",
     "CCNP/Diagrams",
