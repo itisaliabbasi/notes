@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCNP/ENCOR/LAN Switching Fundemantals.md",
+                "file": "CCNP/ENCOR/STP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LAN Switching Fundemantals"
+              "title": "STP"
             }
           }
         ]
@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ecfb3c2d43178f67",
@@ -213,6 +212,9 @@
   },
   "active": "ba10472a147b5bfd",
   "lastOpenFiles": [
+    "CCNP/Diagrams/Screenshot From 2026-08-28 20-00-05.png",
+    "CCNP/ENCOR/LAN Switching Fundemantals.md",
+    "CCNP/ENCOR/STP.md",
     "CCNP/Diagrams/Screenshot From 2026-08-28 18-41-25.png",
     "CCNP/Diagrams/Screenshot From 2026-08-28 18-39-56.png",
     "CCNP/Diagrams/Screenshot From 2026-08-28 16-06-50.png",
@@ -225,9 +227,7 @@
     "CCNP/ENCOR/HA Techniques.md",
     "CCNP/ENCOR/Network Design.md",
     "CCNP/ENCOR/Cloud Intro.md",
-    "CCNP/ENCOR/LAN Switching Fundemantals.md",
     "CCNP/Diagrams/Screenshot From 2026-08-28 15-05-37.png",
-    "CCNP/Diagrams/Screenshot From 2026-08-28 14-38-47.png",
     "CCNP/ENCOR/Netwrok Architecture.md",
     "CCNP/Diagrams/DatacenterTopologies.excalidraw.md",
     "CCNP/Diagrams/AccesslayerTopologies.excalidraw.md",
@@ -256,7 +256,6 @@
     "CCNA/Routing&Switching/VPN.md",
     "CCNA/Routing&Switching/OSPF Routing.md",
     "CCNA/Routing&Switching/Static Routing.md",
-    "CCNA/Routing&Switching/Syslog and NTP.md",
     "CCNA/Routing&Switching/FHRP",
     "Untitled.canvas",
     "Untitled.base"
