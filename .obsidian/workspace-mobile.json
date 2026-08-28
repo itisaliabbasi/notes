@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Automation Intro.md",
+                "file": "CCNA/Routing&Switching/Automation Intro.md",
                 "mode": "source",
                 "source": false
               },
@@ -129,7 +129,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "CCNA/Routing&Switching/Static Routing.md",
+            "file": "CCNA/Routing&Switching/Automation Intro.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
