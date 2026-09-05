@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCNP/ENCOR/STP.md",
+                "file": "CCNP/ENCOR/Cloud Intro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "STP"
+              "title": "Cloud Intro"
             }
           }
         ]
@@ -212,9 +212,11 @@
   },
   "active": "ba10472a147b5bfd",
   "lastOpenFiles": [
-    "CCNP/Diagrams/Screenshot From 2026-08-28 20-00-05.png",
+    "CCNP/ENCOR/HA Techniques.md",
     "CCNP/ENCOR/LAN Switching Fundemantals.md",
+    "CCNP/ENCOR/Network Design.md",
     "CCNP/ENCOR/STP.md",
+    "CCNP/Diagrams/Screenshot From 2026-08-28 20-00-05.png",
     "CCNP/Diagrams/Screenshot From 2026-08-28 18-41-25.png",
     "CCNP/Diagrams/Screenshot From 2026-08-28 18-39-56.png",
     "CCNP/Diagrams/Screenshot From 2026-08-28 16-06-50.png",
@@ -224,10 +226,7 @@
     "CCNP/Diagrams/Screenshot From 2026-08-28 15-27-59.png",
     "CCNP/Diagrams/Screenshot From 2026-08-28 15-24-21.png",
     "CCNP/Diagrams/Screenshot From 2026-08-28 15-13-04.png",
-    "CCNP/ENCOR/HA Techniques.md",
-    "CCNP/ENCOR/Network Design.md",
     "CCNP/ENCOR/Cloud Intro.md",
-    "CCNP/Diagrams/Screenshot From 2026-08-28 15-05-37.png",
     "CCNP/ENCOR/Netwrok Architecture.md",
     "CCNP/Diagrams/DatacenterTopologies.excalidraw.md",
     "CCNP/Diagrams/AccesslayerTopologies.excalidraw.md",
