@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ecfb3c2d43178f67",
@@ -210,7 +211,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ba10472a147b5bfd",
+  "active": "ab42b92bf75c59af",
   "lastOpenFiles": [
     "CCNP/ENCOR/STP.md",
     "CCNP/ENCOR/STP Security.md",
