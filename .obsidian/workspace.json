@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCNP/ENCOR/Cloud Intro.md",
+                "file": "CCNP/ENCOR/STP Security.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cloud Intro"
+              "title": "STP Security"
             }
           }
         ]
@@ -212,21 +212,22 @@
   },
   "active": "ba10472a147b5bfd",
   "lastOpenFiles": [
+    "CCNP/ENCOR/STP.md",
+    "CCNP/ENCOR/STP Security.md",
+    "CCNP/Diagrams/Screenshot From 2026-09-13 20-01-40.png",
+    "CCNP/Diagrams/Screenshot From 2026-09-13 19-59-57.png",
+    "CCNP/Diagrams/Screenshot From 2026-09-13 19-58-03.png",
+    "CCNP/Diagrams/Screenshot From 2026-09-13 19-22-43.png",
+    "CCNP/Diagrams/Screenshot From 2026-09-13 19-20-21.png",
+    "CCNP/Diagrams/Screenshot From 2026-09-13 19-18-26.png",
+    "CCNP/Diagrams/Screenshot From 2026-09-13 19-16-52.png",
+    "CCNP/Diagrams/Screenshot From 2026-09-13 19-12-38.png",
+    "CCNP/Diagrams/Screenshot From 2026-09-13 19-09-57.png",
     "CCNP/ENCOR/HA Techniques.md",
+    "CCNP/ENCOR/Cloud Intro.md",
+    "CCNP/Diagrams/Screenshot From 2026-09-12 20-30-16.png",
     "CCNP/ENCOR/LAN Switching Fundemantals.md",
     "CCNP/ENCOR/Network Design.md",
-    "CCNP/ENCOR/STP.md",
-    "CCNP/Diagrams/Screenshot From 2026-08-28 20-00-05.png",
-    "CCNP/Diagrams/Screenshot From 2026-08-28 18-41-25.png",
-    "CCNP/Diagrams/Screenshot From 2026-08-28 18-39-56.png",
-    "CCNP/Diagrams/Screenshot From 2026-08-28 16-06-50.png",
-    "CCNP/Diagrams/Screenshot From 2026-08-28 16-06-18.png",
-    "CCNP/Diagrams/Screenshot From 2026-08-28 16-05-14.png",
-    "CCNP/Diagrams/Screenshot From 2026-08-28 15-36-14.png",
-    "CCNP/Diagrams/Screenshot From 2026-08-28 15-27-59.png",
-    "CCNP/Diagrams/Screenshot From 2026-08-28 15-24-21.png",
-    "CCNP/Diagrams/Screenshot From 2026-08-28 15-13-04.png",
-    "CCNP/ENCOR/Cloud Intro.md",
     "CCNP/ENCOR/Netwrok Architecture.md",
     "CCNP/Diagrams/DatacenterTopologies.excalidraw.md",
     "CCNP/Diagrams/AccesslayerTopologies.excalidraw.md",

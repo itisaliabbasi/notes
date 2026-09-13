@@ -11,13 +11,13 @@
 ## Service Models
 
 1. IaaS: we configure and handle services and apps and os of VMs
-![[Screenshot From 2026-08-27 20-09-02.png]]
+![[Screenshot From 2026-08-27 20-09-02.png|800]]
 
 2. PaaS: we dont have to do anything with OS and only handle and configure services and apps
-![[Screenshot From 2026-08-27 20-09-26.png]]
+![[Screenshot From 2026-08-27 20-09-26.png|800]]
 
 3. SaaS: we dont configure and handle app and services, we just use them
-![[Screenshot From 2026-08-27 20-10-38.png]]
+![[Screenshot From 2026-08-27 20-10-38.png|800]]
 
 > *IaaS => Infrastructure as a Service*
 > *PaaS => Platform as a Service*

@@ -15,9 +15,9 @@
 > *VMR => Value, Mask, Result*
 > *SDM => Switching Database Manager*
 
-![[Screenshot From 2026-08-28 14-36-17.png]]
+![[Screenshot From 2026-08-28 14-36-17.png|800]]
 
-![[Screenshot From 2026-08-28 14-38-47.png]]
+![[Screenshot From 2026-08-28 14-38-47.png|800]]
 
  > `show sdm prefer` to see current SDM template
  > `show sdm prefer ?` to see other SDM templates
@@ -30,7 +30,7 @@
 > `name <string>` in that VLAN gives it a name
 > `show vlan`, `show vlan brief` show the list of VLANs and their assigned ports
 
-![[Screenshot From 2026-08-28 15-05-37.png]]
+![[Screenshot From 2026-08-28 15-05-37.png|800]]
 
 ### Assign VLAN to Interface
 
@@ -59,7 +59,7 @@ no vlan <x>,<y>,<z> //delete multiple VLANs
 > 802.1q is the modern open standard trunking protocol, native VLAN is VLAN1 and its recommended to change it to another unused VLAN
 > `show interfaces trunk`, `show interface status`, `show interface <type/value> switchport` to see trunk interfaces status and their allowed VLANs
 
-![[Screenshot From 2026-08-28 15-13-04.png]]
+![[Screenshot From 2026-08-28 15-13-04.png|800]]
 
 ### Trunk Config
 
@@ -74,13 +74,13 @@ conf t
 	vlan dot1q tag native //to do tagging even on nativ vlan frames
 ```
 
-![[Screenshot From 2026-08-28 15-24-21.png]]
+![[Screenshot From 2026-08-28 15-24-21.png|800]]
 
 ### DTP
 
 > *DTP => Dynamic Trunking Protocol*
 
-![[Screenshot From 2026-08-28 15-27-59.png]]
+![[Screenshot From 2026-08-28 15-27-59.png|800]]
 
 ```
 conf t
@@ -93,7 +93,7 @@ conf t
 
 > *VTP => VLAN Trunking Protocol* -> only flows through trunk ports
 
-![[Screenshot From 2026-08-28 15-36-14.png]]
+![[Screenshot From 2026-08-28 15-36-14.png|800]]
 
 ### VTP Modes
 
@@ -118,9 +118,9 @@ conf t
 2. authentication
 3. configuration revision: becomes 0 by changing to transparent mode or changing domain name
 
-![[Screenshot From 2026-08-28 16-05-14.png]]
-![[Screenshot From 2026-08-28 16-06-18.png]]
-![[Screenshot From 2026-08-28 16-06-50.png]]
+![[Screenshot From 2026-08-28 16-05-14.png|800]]
+![[Screenshot From 2026-08-28 16-06-18.png|800]]
+![[Screenshot From 2026-08-28 16-06-50.png|800]]
 
 ### VTP Config
 
@@ -165,10 +165,10 @@ VTP Verification:
 
 1. on: static
 2. PAgP
-![[Screenshot From 2026-08-28 18-39-56.png]]
+![[Screenshot From 2026-08-28 18-39-56.png|800]]
 
 3. LACP
-![[Screenshot From 2026-08-28 18-41-25.png]]
+![[Screenshot From 2026-08-28 18-41-25.png|800]]
 
 > *PAgP => Port Aggregation Protocol*
 > *LACP => Link Aggregation Control Protocol*

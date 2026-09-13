@@ -6,7 +6,7 @@
 	1. v1: 256 Groups, vMAC(`0000.0c07.ac**`), multicast(`224.0.0.2`)
 	2. v2: 4096 Groups, its timers can go below 1 sec, vMAC(`0000.0c9f.f***`), multicast(`224.0.0.102`)
 
-![[Screenshot From 2026-08-27 16-27-30.png]]
+![[Screenshot From 2026-08-27 16-27-30.png|800]]
 
 > [!NOTE]
 > In datacenters when we configure HSRP and VPC together on nexux switches, both active and standby switches process packets(data plane) at the same time(because of loadbalance that VPC does).
@@ -15,14 +15,14 @@
 	1. v2: used in IPv4
 	2. v3: required for IPv6
 
-![[Screenshot From 2026-08-27 16-31-37.png]]
+![[Screenshot From 2026-08-27 16-31-37.png|800]]
 
 > [!NOTE]
 > in VRRP, master router physical IP can be the vIP of VRRP(unlike HSRP).
 
 3. GLBP: the router with top priority becomes AVG and answers ARP request, if AVG goes down another router with highest priority becomes AVG, and all other routers become AVF and each one has its own vMAC, if an AVF go down, its vMAC is assigned to another router. loadbalance is done with 3 algorithms(Round Robin, Weighted, Host Dependent), vMAC(`0007.b40*.**!!`), has 1024 Groups, multicast(`224.0.0.102`) same as HSRP v2.
 
-![[Screenshot From 2026-08-27 16-35-16.png]]
+![[Screenshot From 2026-08-27 16-35-16.png|800]]
 
 > [!NOTE]
 > HSRP/VRRP are used for 2 routers/MLSs, while GLBP can be used for up to 4 routers/MLSs.
@@ -42,13 +42,12 @@
 
 ## Simplified Campus
 
-![[Screenshot From 2026-08-27 19-49-00.png]]
+![[Screenshot From 2026-08-27 19-49-00.png|800]]
 
 1. Stackwise
 2. SWV
 3. VSS
-
-![[Screenshot From 2026-08-27 19-57-28.png]]
+![[Screenshot From 2026-08-27 19-57-28.png|800]]
 
 > *SWV => StackWise Virtual*
 > *VSS => Virtual Switching System*

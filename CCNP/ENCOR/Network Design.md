@@ -26,16 +26,13 @@
 ## Access Layer
 
 1. L2: it needs configuring STP to prevent loops and fully use all links with PVST.
-
-![[Screenshot From 2026-08-27 16-51-45.png]]
+![[Screenshot From 2026-08-27 16-51-45.png|800]]
 
 2. L2 Loopfree
-
-![[Screenshot From 2026-08-27 16-51-14.png]]
+![[Screenshot From 2026-08-27 16-51-14.png|800]]
 
 3. L3: its loopfree and we dont need to worry about STP, but costs more and we cant have same VLAN with same subnet on multiple switches.
-
-![[Screenshot From 2026-08-27 16-50-24.png]]
+![[Screenshot From 2026-08-27 16-50-24.png|800]]
 
 ### Topologies
 
@@ -71,7 +68,7 @@
 		1. LISP
 		2. VxLAN
 		3. automated using cisco catalyst center(cisco DNA center)
-![[Screenshot From 2026-08-27 19-32-12.png]]
+![[Screenshot From 2026-08-27 19-32-12.png|800]]
 	2. SD-WAN: path control & performance between sites
-![[Screenshot From 2026-08-27 19-39-13.png]]
-![[Screenshot From 2026-08-27 19-39-22.png]]
+![[Screenshot From 2026-08-27 19-39-13.png|800]]
+![[Screenshot From 2026-08-27 19-39-22.png|800]]
