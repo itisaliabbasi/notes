@@ -199,6 +199,7 @@ sh ip route eigrp //AD must be 5
 > Its because of successor and feasible successor path that EIGRP has such a low convergence time. becase after the successor path goes down, feasible successor path immediately becomes successor path.
 
 > changing key values: `metric weighs <k1> <k2> <k3> <k4> <k5> <k6>` that we specify if the key value is used in metric calculation (1) or not (0). this must be the same across all the routers in topology. this config is under router eigrp (if its named, we should do it under ipv4 address family).
+> we can see enabled key values with `sh eigrp protocols`
 
 > *ECMP => Equal Cost Multi Path* -> happens when FD of multiple paths are the same (by default up to 4 paths, but can be configured to up to 32 paths)
 > *UCMP => Unequal Cost Multi Path* -> happens when FD of feasible successor is <= FD of successor * variant

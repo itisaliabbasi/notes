@@ -11,10 +11,14 @@
             "id": "edcbb21df9752bbc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CCNP/ENCOR/EIGRP.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "EIGRP"
             }
           }
         ]
@@ -206,8 +210,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "72494f3515db2b19",
+  "active": "edcbb21df9752bbc",
   "lastOpenFiles": [
+    "CCNP/ENCOR/OSPF.md",
+    "CCNP/Diagrams/screenshot_2026-10-06_19-15-27.png",
+    "CCNP/Diagrams/screenshot_2026-10-06_19-14-31.png",
+    "CCNP/Diagrams/screenshot_2026-10-06_19-10-44.png",
+    "CCNP/Diagrams/screenshot_2026-10-06_19-05-53.png",
+    "CCNP/Diagrams/OSPF LSA Flooding Infographic.png",
+    "CCNP/Diagrams/Unconfirmed 250241.crdownload",
+    "CCNP/Diagrams/screenshot_2026-10-06_18-50-40.png",
     "CCNP/ENCOR/EIGRP.md",
     "CCNP/ENCOR/Prompt.md",
     "CCNP/Diagrams/screenshot_2026-09-22_11-50-38.png",
@@ -218,12 +230,6 @@
     "CCNP/ENCOR/Network Design.md",
     "CCNP/ENCOR/STP.md",
     "CCNP/ENCOR/STP Security.md",
-    "CCNP/Diagrams/screenshot_2026-09-18_21-49-05.png",
-    "CCNP/Diagrams/screenshot_2026-09-18_13-15-44.png",
-    "CCNP/Diagrams/screenshot_2026-09-18_13-14-21.png",
-    "CCNP/Diagrams/screenshot_2026-09-18_13-14-01.png",
-    "CCNP/Diagrams/screenshot_2026-09-18_12-54-23.png",
-    "CCNP/Diagrams/screenshot_2026-09-18_12-53-20.png",
     "CCNP/ENCOR/HA Techniques.md",
     "CCNP/ENCOR/LAN Switching Fundemantals.md",
     "CCNP/ENCOR/Netwrok Architecture.md",
@@ -250,10 +256,7 @@
     "CCNA/Routing&Switching/DHCP.md",
     "CCNA/Routing&Switching/Port Security.md",
     "CCNA/Routing&Switching/DTP.md",
-    "CCNA/Routing&Switching/FHRP.md",
-    "CCNA/Routing&Switching/VPN.md",
     "CCNA/Routing&Switching/FHRP",
-    "Untitled.canvas",
-    "Untitled.base"
+    "Untitled.canvas"
   ]
 }
